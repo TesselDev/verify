@@ -1,0 +1,19 @@
+{
+  "chainId": 4663,
+  "startBlock": 122819793,
+  "contracts": {
+    "hub": "0x75F5CcF1891167a96f338A850E3D92DeB766f38c",
+    "router": "0x546848869D85b6da9F2a062303d98552cd41b58a",
+    "positions": "0xde4C15E7513bb06e50c508e1DcFa111590893ECe",
+    "charters": "0x80b023da132cefB5C035674C6AF478F7c841200D",
+    "credit": "0x62Eb12a0cA2a8fdF9A4d07EEB292e591468df60e"
+  },
+  "pools": {
+    "binWethUsdg": "0xAC3D55a56A9cE35CF245bdba05524e26A5330f43",
+    "rangeWethUsdg": "0x72e9086865Db9d6DE10b91BE466b05575D57FD82"
+  },
+  "tokens": {
+    "USDG": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "WETH": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73"
+  }
+}

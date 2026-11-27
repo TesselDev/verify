@@ -1,0 +1,10 @@
+{
+  "name": "tessel-verify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.58.0"
+  }
+}
